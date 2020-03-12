@@ -6,7 +6,7 @@ Flutter with BLoC Pattern.
 
 ## Resource
 
-- [Application Design](https://dribbble.com/shots/5026483-Netflix-Mobile-App-Redesign/attachments)
+- [Application Design](https://www.instagram.com/p/B8q2l3lAdm9/)
 - [Weather API](https://www.metaweather.com)
 
 ## Note
