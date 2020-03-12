@@ -1,6 +1,20 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+Flutter with BLoC Pattern.
+
+![alt text](https://instagram.fpat3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/82748280_470704247142263_3843591584502645641_n.jpg "Resoure")
+
+## Resource
+
+- [Application Design](https://dribbble.com/shots/5026483-Netflix-Mobile-App-Redesign/attachments)
+- [Weather API](https://www.metaweather.com)
+
+## Note
+
+- Minimalistic UI
+- Pull Down To Refresh Data
+- Light Weight
+- Easy To Use
 
 ## Getting Started
 
