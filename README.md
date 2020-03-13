@@ -6,7 +6,7 @@ Flutter with BLoC Pattern.
 
 ## Resource
 
-- [Application Design](https://www.instagram.com/p/B8q2l3lAdm9/)
+- [Application Design](https://www.instagram.com/p/B9oy7YFgxst/)
 - [Weather API](https://www.metaweather.com)
 
 ## Note
